@@ -17,19 +17,11 @@ var htmlmenu = `
                                         Módulo Acceso
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/login.html">Login</a></li>
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/register.html">Registro</a></li>
                                 </ul>
                         </li>
                         <!-- Fin Módulo Acceso  -->
-                        <!-- Inicio Login -->
-                        <li class="nav-item">
-                          <a class="nav-link" href="https://baruchsgod.github.io/Prototipo/login.html">Login</a>
-                        </li>
-                        <!-- Fin Login -->
-                        <!-- Inicio Registro -->
-                        <li class="nav-item">
-                          <a class="nav-link" href="https://baruchsgod.github.io/Prototipo/register.html">Registro</a>
-                        </li>
-                        <!-- Fin Registro -->
                         <!-- Inicio Módulo Cliente -->
                         <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
