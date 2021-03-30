@@ -16,10 +16,20 @@ var htmlmenu = `
                                         data-bs-toggle="dropdown" aria-expanded="false">
                                         Módulo Acceso
                                 </a>
-                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">                                      
+                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 </ul>
                         </li>
                         <!-- Fin Módulo Acceso  -->
+                        <!-- Inicio Login -->
+                        <li class="nav-item">
+                          <a class="nav-link" href="https://baruchsgod.github.io/Prototipo/login.html">Login</a>
+                        </li>
+                        <!-- Fin Login -->
+                        <!-- Inicio Registro -->
+                        <li class="nav-item">
+                          <a class="nav-link" href="https://baruchsgod.github.io/Prototipo/register.html">Registro</a>
+                        </li>
+                        <!-- Fin Registro -->
                         <!-- Inicio Módulo Cliente -->
                         <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
@@ -47,7 +57,7 @@ var htmlmenu = `
                                         data-bs-toggle="dropdown" aria-expanded="false">
                                         Módulo Administración
                                 </a>
-                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">                                      
+                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 </ul>
                         </li>
                         <!-- Fin Módulo Administrador  -->
@@ -57,7 +67,7 @@ var htmlmenu = `
                                         data-bs-toggle="dropdown" aria-expanded="false">
                                         Módulo Pagos
                                 </a>
-                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
+                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Pagos/hump-0011.html">Asignar Membresía</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Pagos/hump-0012.html">Ingresar Cliente a Facturación</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Pagos/hump-0013.html">Crear Pago</a></li>
@@ -67,7 +77,7 @@ var htmlmenu = `
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Pagos/hump-0031.html">Balance Inicial</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Pagos/hump-0032.html">Arqueo de Caja</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Pagos/hump-0041.html">Establecer Balance</a></li>
-                                        <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Pagos/hump-0042.html">Modificar Balance</a></li>                                     
+                                        <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Pagos/hump-0042.html">Modificar Balance</a></li>
                                 </ul>
                         </li>
                         <!-- Fin Módulo Pago  -->
@@ -77,7 +87,7 @@ var htmlmenu = `
                                         data-bs-toggle="dropdown" aria-expanded="false">
                                         Módulo Empleado
                                 </a>
-                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">                                      
+                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 </ul>
                         </li>
                         <!-- Fin Módulo Empleados  -->
@@ -87,14 +97,14 @@ var htmlmenu = `
                                         data-bs-toggle="dropdown" aria-expanded="false">
                                         Módulo Reporte
                                 </a>
-                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">     
+                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-006.html">Crear</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-001.html">Clientes Activos</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-002.html">Arqueo de Caja</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-003.html">Facturación</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-004-1.html">Lista de eventos</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-004-2.html">Reporte de reservas</a></li>
-                                        <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-005-1.html">Reporte de retroalimentación</a></li>                                 
+                                        <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-005-1.html">Reporte de retroalimentación</a></li>
                                 </ul>
                         </li>
                         <!-- Fin Módulo Reporte  -->
