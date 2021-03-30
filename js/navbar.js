@@ -1,7 +1,7 @@
 'use strict'
 
-$(document).ready(function () {
-var htmlmenu = `
+$(document).ready(function() {
+    var htmlmenu = `
 <div class="container-fluid">
         <a class="navbar-brand" href="https://baruchsgod.github.io/Prototipo/menu.html">Energym</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
@@ -80,6 +80,17 @@ var htmlmenu = `
                                         Módulo Empleado
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-001.html">Modificar Empleado</a></li>
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-002.html">Crear Dieta</a></li>
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-002-01.html">Modificar Dieta</a></li>
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-003.html">Crear Rutina</a></li>
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-003-1.html">Modificar Rutina</a></li>
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-004.html">Ver Calendario</a></li>
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-005.html">Crear Metricas</a></li>
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-005-01.html">Modificar Metricas</a></li>
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-006.html">Historial Cliente</a></li>
+
+
                                 </ul>
                         </li>
                         <!-- Fin Módulo Empleados  -->
@@ -104,5 +115,5 @@ var htmlmenu = `
         </div>
 </div>
 `
-document.getElementById('navegacion').innerHTML = htmlmenu;
+    document.getElementById('navegacion').innerHTML = htmlmenu;
 });
