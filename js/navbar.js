@@ -50,6 +50,12 @@ var htmlmenu = `
                                         Módulo Administración
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/administrador/HUM3-001.html">Administrar usuarios</a></li>
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/administrador/HUM3-002.html">Administrar informacion muro</a></li>
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/administrador/HUM3-003.html">Informar Usuarios</a></li>
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/administrador/HUM3-004.html">Administrar reportes</a></li>
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/administrador/HUM3-005-1.html">Crear cuenta usuario</a></li>
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/administrador/HUM3-005-2.html">Editar cuentas</a></li>
                                 </ul>
                         </li>
                         <!-- Fin Módulo Administrador  -->
@@ -97,6 +103,7 @@ var htmlmenu = `
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-004-1.html">Lista de eventos</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-004-2.html">Reporte de reservas</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-005-1.html">Reporte de retroalimentación</a></li>
+                                        <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/administrador/HURM-006-1.html">Planes de dietas</a></li>
                                 </ul>
                         </li>
                         <!-- Fin Módulo Reporte  -->
