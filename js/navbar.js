@@ -107,7 +107,6 @@ $(document).ready(function() {
                                         Módulo Reporte
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                        <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-006.html">Crear</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-001.html">Clientes Activos</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-002.html">Arqueo de Caja</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-003.html">Facturación</a></li>
@@ -115,6 +114,7 @@ $(document).ready(function() {
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-004-2.html">Reporte de reservas</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-005-1.html">Reporte de retroalimentación</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/administrador/HURM-006-1.html">Planes de dietas</a></li>
+                                        <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/administrador/HURM-006-2.html">Log de errores</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/administrador/HURM-007.html">Ver historial</a></li>
                                 </ul>
                         </li>
