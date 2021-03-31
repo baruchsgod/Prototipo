@@ -90,7 +90,7 @@ $(document).ready(function() {
                                 <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-002.html">Crear Dieta</a></li>
                                 <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-002-01.html">Modificar Dieta</a></li>
                                 <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-003.html">Crear Rutina</a></li>
-                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-003-1.html">Modificar Rutina</a></li>
+                                <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-003-01.html">Modificar Rutina</a></li>
                                 <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-004.html">Ver Calendario</a></li>
                                 <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-005.html">Crear Metricas</a></li>
                                 <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Empleado/HUEM-005-01.html">Modificar Metricas</a></li>
