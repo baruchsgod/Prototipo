@@ -114,12 +114,8 @@ $(document).ready(function() {
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-004-2.html">Reporte de reservas</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/Reportes/hurm-005-1.html">Reporte de retroalimentación</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/administrador/HURM-006-1.html">Planes de dietas</a></li>
-<<<<<<< HEAD
-                                          <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/administrador/HURM-006-2.html">Log de errores</a></li>
-=======
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/administrador/HURM-006-2.html">Log de errores</a></li>
                                         <li><a class="dropdown-item" href="https://baruchsgod.github.io/Prototipo/administrador/HURM-007.html">Ver historial</a></li>
->>>>>>> c5ba5b1407f7f8a89f52757cceeb626a7d65f469
                                 </ul>
                         </li>
                         <!-- Fin Módulo Reporte  -->
